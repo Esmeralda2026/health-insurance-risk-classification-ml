@@ -20,7 +20,9 @@ Model performance is evaluated using accuracy, balanced accuracy, precision, rec
 
 ## Confidentiality
 
-The shared dataset is anonymized and aggregated for academic demonstration and reproducibility purposes only. It does not contain names, contract numbers, policy numbers, dates of birth, exact claim dates, or real personal identifiers.
+The original private health insurance dataset is not publicly available due to confidentiality restrictions.
+This repository is provided for academic transparency as part of a PhD research project. The shared dataset is an anonymized sample and the code is intended to document the modelling workflow used in the dissertation. 
+The dataset does not contain names, contract numbers, policy numbers, dates of birth, exact claim dates, or real personal identifiers.
 
 ## Author
 
